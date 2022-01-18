@@ -1,0 +1,10 @@
+Don't know what to say about this yet. I am just learning wolframscript
+command line and I couldn't get the images to work very well although I did
+figure out how to export a plot, so i ended up install a gui to my wsl ubuntu
+in order to use jupyter notebooks.
+
+I think something interesting might happen if I keep learning this. I mean, I
+might discover something cool, or figure out a way to make an interesting game
+or something.
+
+I know it doesn't look like much yet.
